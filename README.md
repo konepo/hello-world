@@ -1,8 +1,10 @@
 # hello-world
 My first repository
 
+# About Me
  My name is Papa, and this my first repository.
- 
+
+# Checklist
 Create a repository on GitHub
 
 Create a branch on GitHub
